@@ -1,3 +1,4 @@
 print("hello praneeth")
-print("learn gitgub fastly")
+print("learn github fastly")
 print("python developer")
+print("software engineer")
